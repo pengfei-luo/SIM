@@ -33,8 +33,8 @@ Please install the specified versions of Python libraries according to the requi
 
 ### Step 2: Download the data
 
-- [Wiki](https://mailustceducn-my.sharepoint.com/:u:/g/personal/pfluo_mail_ustc_edu_cn/EYM4IprpNFtOs_bogwWnxXIBvt9y7bcGBfJ3gzDDuBfb7Q?e=Zo6p0U)
-- [NELL](https://mailustceducn-my.sharepoint.com/:u:/g/personal/pfluo_mail_ustc_edu_cn/EZHWyyhZT0dBpqj4qrTJJ-MB8T_t3B95GETy_ZCLUqrsCg?e=C0bA6S)
+- [Wiki-One](https://mailustceducn-my.sharepoint.com/:u:/g/personal/pfluo_mail_ustc_edu_cn/EYM4IprpNFtOs_bogwWnxXIBvt9y7bcGBfJ3gzDDuBfb7Q?e=Zo6p0U)
+- [NELL-One](https://mailustceducn-my.sharepoint.com/:u:/g/personal/pfluo_mail_ustc_edu_cn/EZHWyyhZT0dBpqj4qrTJJ-MB8T_t3B95GETy_ZCLUqrsCg?e=C0bA6S)
 
 
 
