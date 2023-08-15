@@ -1,0 +1,5 @@
+torch==1.8.2+cu111
+wandb==0.10.22
+scikit-learn==1.0.1
+scipy==1.7.3
+prettytable
